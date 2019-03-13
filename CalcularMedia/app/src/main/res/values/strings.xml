@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">CalcularMedia</string>
+    <string name="txtCalcularMedia">Calcular Média</string>
+    <string name="txtCHT">CHT</string>
+    <string name="txtCNT">CNT</string>
+    <string name="txtLCT">LCT</string>
+    <string name="txtRedacao">Redação</string>
+    <string name="txtMT">MT</string>
+    <string name="txtHintCHT">Ciências Humanas e suas Tecnologias</string>
+    <string name="txtHintCNT">Ciências da Natureza e suas Tecnologias</string>
+    <string name="txtHintLCT">Linguagens, Códigos e suas Tecnologias</string>
+    <string name="txtHintMT">Matemática e suas Tecnologias</string>
+    <string name="txtHintR">Redação</string>
+    <string name="btn_calcular">Calcular</string>
+    <string name="txtMedia">Media</string>
+    <string name="btn_voltar">Voltar</string>
+</resources>
